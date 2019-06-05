@@ -1,2 +1,2 @@
 # lianjiaspider
-PythonSpitder
+PythonSpider
